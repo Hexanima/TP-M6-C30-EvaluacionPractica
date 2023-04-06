@@ -1,4 +1,4 @@
-# TP-M6-C30-EvaluacionPractica
+# Evaluacion Practica del modulo 6
 
 Proyecto evaluacion donde diseño una base de datos y la creo, con valores de prueba
 
